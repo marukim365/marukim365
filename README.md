@@ -1,4 +1,11 @@
-### Hi there 👋
+# 🙌 Hello, I'm Seongmin.
+
+🍎 I preparing to be iOS developer. 
+
+<br/>
+
+### 🚧 This README is currently under construction. 🚧
+
 
 <!--
 **marukim365/marukim365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
