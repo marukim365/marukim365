@@ -4,9 +4,9 @@
 🚙 I love to drive with a car.<br/>
 💻 Developing it is that much more fun!
 
-<br/>
 
-### 🛞 Projects
+
+## 🛞 Projects
 - [ANBD](https://github.com/APP-iOS4/project3-team-d-ANBD)
   - A sharing and bartering community app that allows you to save, share, exchange, and reuse.
   - CRUD with Firebase.
@@ -23,9 +23,9 @@
   - OTT prototype app that provides serial works.
   - Draw Work Detail View through UIKit.
 
-<br/>
 
-### 🛞 Education
+
+## 🛞 Education
 - **LIKELION [App School iOS 4th](https://techit.education/school/kdt-ios-4th)**
   - 2023.11 ~ 2024.5 (~ing)
   - Swift grammar, UIKit, SwiftUI, HIG
@@ -40,18 +40,18 @@
   - 2015.3 ~ 2021.2
   - Automobile maintenance
 
-<br/>
 
-### 🛞 Work Experience
+
+## 🛞 Work Experience
 - **SpringCloud Inc.**
   - 2020.9 ~ 2023.8 (3 years)
     
   - Autonomous driving data collection and management
   - Development of autonomous driving data collection system
  
-<br/>
 
-### 🛞 My Car History
+
+## 🛞 My Car History
 - Chevoret **Spark** M/T (2 years)
   
 - Hyundai **Starex** M/T (1 years)
