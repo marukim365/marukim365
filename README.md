@@ -27,7 +27,7 @@
 
 ## 🛞 Education
 - **LIKELION [App School iOS 4th](https://techit.education/school/kdt-ios-4th)**
-  - 2023.11 ~ 2024.5 (~ing)
+  - 2023.11 ~ 2024.5 (6 months)
   - Swift grammar, UIKit, SwiftUI, HIG
   - Github
     
@@ -47,6 +47,7 @@
   - 2020.9 ~ 2023.8 (3 years)
     
   - Autonomous driving data collection and management
+    
   - Development of autonomous driving data collection system
  
 
