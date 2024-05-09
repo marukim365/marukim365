@@ -7,19 +7,19 @@
 
 
 ## 🛞 Projects
-- [ANBD](https://github.com/APP-iOS4/project3-team-d-ANBD)
+- **[ANBD](https://github.com/APP-iOS4/ANBD)**
   - A sharing and bartering community app that allows you to save, share, exchange, and reuse.
   - CRUD with Firebase.
-  
-- [Likelion Seminar Ticketing](https://github.com/APP-iOS4/project2-team-c-techit-admin)
-  - An app that allows you to easily find and apply for seminar events.
-  - Draw Home, Category, Login View through SwiftUI.
-  
-- [ARI](https://github.com/APP-iOS4/hackathon-team02)
+
+- **[ARI](https://github.com/APP-iOS4/hackathon-team02)**
   - An app that provides daily interview questions related to iOS developers.
   - Draw Home View through SwiftUI.
   
-- [SwiftView](https://github.com/APP-iOS4/UIKit-Prototype-LAB4)
+- **[Likelion Seminar Ticketing](https://github.com/APP-iOS4/project2-team-c-techit-admin)**
+  - An app that allows you to easily find and apply for seminar events.
+  - Draw Home, Category, Login View through SwiftUI.
+  
+- **[SwiftView](https://github.com/APP-iOS4/UIKit-Prototype-LAB4)**
   - OTT prototype app that provides serial works.
   - Draw Work Detail View through UIKit.
 
