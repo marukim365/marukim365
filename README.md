@@ -26,6 +26,11 @@
 
 
 ## 🛞 Education
+- **Allen [Swift Master School 35th](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8)**
+  - 2024.6 ~ 2024.8 (2 months)
+  - Swift grammar, UIKit, MVC, MVVM
+  - Slack
+
 - **LIKELION [App School iOS 4th](https://techit.education/school/kdt-ios-4th)**
   - 2023.11 ~ 2024.5 (6 months)
   - Swift grammar, UIKit, SwiftUI, HIG
