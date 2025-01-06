@@ -7,6 +7,14 @@
 
 
 ## 🛞 Projects
+- **[TOUCHEESE](https://github.com/GamSungPing/TOUCHEESE_iOS)**
+  - This is a platform for booking your desired photo studio easily and quickly.
+  - Developed in collaboration with a backend developer, an Android developer, and a designer.
+
+- **[HanHae](https://github.com/rlvy0513/HanHae)**
+  - This is a productivity app designed to plan goals, check achievements, and motivate users.
+  - CRUD with Core Data.
+    
 - **[ANBD](https://github.com/APP-iOS4/ANBD)**
   - A sharing and bartering community app that allows you to save, share, exchange, and reuse.
   - CRUD with Firebase.
@@ -18,10 +26,6 @@
 - **[Likelion Seminar Ticketing](https://github.com/APP-iOS4/project2-team-c-techit-admin)**
   - An app that allows you to easily find and apply for seminar events.
   - Draw Home, Category, Login View through SwiftUI.
-  
-- **[SwiftView](https://github.com/APP-iOS4/UIKit-Prototype-LAB4)**
-  - OTT prototype app that provides serial works.
-  - Draw Work Detail View through UIKit.
 
 
 
@@ -48,6 +52,13 @@
 
 
 ## 🛞 Work Experience
+- **LIKELION Inc.**
+  - 2024.10 ~ 2025.1 (3 months)
+    
+  - iOS developer / Intern
+    
+  - Successfully completed a 3-month project in collaboration with developers from other disciplines.
+
 - **SpringCloud Inc.**
   - 2020.9 ~ 2023.8 (3 years)
     
@@ -57,7 +68,7 @@
  
 
 
-## 🛞 My Car History
+## 🛞 My Mobility History
 - Chevoret **Spark** M/T (2 years)
   
 - Hyundai **Starex** M/T (1 years)
@@ -65,3 +76,5 @@
 - Hyundai **Kona N** DCT (8 months)
   
 - Hyundai **Avante** Hybrid (8 months)
+
+- Wuyang-Honda Motors **CG125** (2024.10 - Present)
